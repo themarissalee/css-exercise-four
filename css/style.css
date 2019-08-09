@@ -41,7 +41,7 @@ h2 {
   background-image: url("../images/rome.jpg");
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
   .preview {
     width: 45%;
     padding: 5em;
@@ -54,7 +54,7 @@ h2 {
   }
 }
 
-@media screen and (min-width: 1199px){
+@media screen and (min-width: 991px) {
   .preview {
     width: 23%;
     padding: 5em;
